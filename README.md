@@ -1,1 +1,4 @@
-# express-practices-mongodb-crud
+### Environment variables
+
+MONGODB_URI
+PORT
